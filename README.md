@@ -1,3 +1,3 @@
-# momentum-clone
+# Momentum Clone
 
 Power of JS!
